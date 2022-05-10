@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{7F0E6E7C-37B5-488A-AE4A-E174C17B56C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstMVCApp/Controllers/HelloWorldController.cs">
+    <Files>
+      <File FileName="FirstMVCApp/Controllers/HomeController.cs" Line="13" Column="6" />
+      <File FileName="FirstMVCApp/Views/Home/Index.cshtml" />
+      <File FileName="FirstMVCApp/Views/Home/Privacy.cshtml" />
+      <File FileName="FirstMVCApp/Views/Shared/_Layout.cshtml" />
+      <File FileName="FirstMVCApp/Program.cs" />
+      <File FileName="FirstMVCApp/Controllers/HelloWorldController.cs" Line="25" Column="54" />
+      <File FileName="FirstMVCApp/Startup.cs" />
+      <File FileName="FirstMVCApp/Views/HelloWorld/index.cshtml" />
+      <File FileName="FirstMVCApp/Models/DogViewModel.cs" />
+      <File FileName="FirstMVCApp/Models/ErrorViewModel.cs" />
+      <File FileName="FirstMVCApp/Views/HelloWorld/Create.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstMVCApp" expanded="True">
+            <Node name="FirstMVCApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HelloWorldController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstMVCApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

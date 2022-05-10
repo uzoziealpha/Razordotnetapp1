@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/obinnauzozie/Projects/FirstMVCApp/FirstMVCApp/FirstMVCApp.csproj": {}
+  },
+  "projects": {
+    "/Users/obinnauzozie/Projects/FirstMVCApp/FirstMVCApp/FirstMVCApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/obinnauzozie/Projects/FirstMVCApp/FirstMVCApp/FirstMVCApp.csproj",
+        "projectName": "FirstMVCApp",
+        "projectPath": "/Users/obinnauzozie/Projects/FirstMVCApp/FirstMVCApp/FirstMVCApp.csproj",
+        "packagesPath": "/Users/obinnauzozie/.nuget/packages/",
+        "outputPath": "/Users/obinnauzozie/Projects/FirstMVCApp/FirstMVCApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/obinnauzozie/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.24, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.23, 3.1.23]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
